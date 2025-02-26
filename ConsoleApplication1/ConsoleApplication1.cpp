@@ -1,5 +1,6 @@
 ﻿#include <iostream>
 #include <math.h>
+// арцлдращвшцруацдлр
 using namespace std;
 double F(double x) {
     return x * x - log10(x + 2);
